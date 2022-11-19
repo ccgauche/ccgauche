@@ -23,7 +23,7 @@ Welcome on my Github page. Don't forget to check my [Gitlab profile](https://git
 
 > An in-terminal local youtube music client able to run without internet.
 
-[Clean Reader](https://github.com/ccgauche/ytermusic) ![GitHub YTerMusic](https://img.shields.io/github/stars/ccgauche/ytermusic)
+[Clean Reader](https://github.com/ccgauche/clean_reader) ![GitHub YTerMusic](https://img.shields.io/github/stars/ccgauche/clean_reader)
 
 > A server-side webpage reader-mode like service written in Rust. With a focus on privacy and security.
 
