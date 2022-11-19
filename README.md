@@ -39,3 +39,7 @@ Welcome on my Github page. Don't forget to check my [Gitlab profile](https://git
 ## Contact me
 
 My mail: [gaucheron.laurent@gmail.com](gaucheron.laurent@gmail.com)
+
+![](https://github-readme-stats.vercel.app/api?username=ccgauche&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccgauche&layout=compact&hide=html,css)
