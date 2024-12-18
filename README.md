@@ -13,7 +13,7 @@ Welcome on my Github page. Don't forget to check my [Gitlab profile](https://git
 
 ## My projects & Projects I'm contributing to
 
-![https://media.discordapp.net/attachments/444005079410802699/730566298073038949/rsz_5f0656b6aa176.png](https://media.discordapp.net/attachments/444005079410802699/730566298073038949/rsz_5f0656b6aa176.png)
+![https://s3.eu-central-2.wasabisys.com/veloren-blog/cdn/235/screenshot_1718904115353.png](https://s3.eu-central-2.wasabisys.com/veloren-blog/cdn/235/screenshot_1718904115353.png)
 
 [Veloren](https://www.veloren.net/) ![Gitlab Veloren](https://img.shields.io/gitlab/stars/veloren/veloren)
 
